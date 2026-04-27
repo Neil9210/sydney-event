@@ -6,7 +6,7 @@ This project demonstrates a clean UI structure, routing, and authentication inte
 ---
 
 ## 🌐 Live Demo
-(Add your deployed link here)
+(https://sydney-event-tawny.vercel.app/)
 
 ---
 
